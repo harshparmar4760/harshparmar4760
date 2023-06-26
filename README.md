@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Parmar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **JAVA, REACTN, UI/UX, Front End development**
+- 🌱 I’m currently learning **JAVA, REACT, UI/UX, Front End development**
 
 - 💬 Ask me about **Web dev, UI/UX, JAVA**
 
