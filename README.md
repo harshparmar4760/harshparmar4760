@@ -1,4 +1,5 @@
 ### Hi there 👋
+github-contribution-grid-snake.svg
 
 <!--
 **harshparmar4760/harshparmar4760** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
